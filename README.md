@@ -2,5 +2,5 @@ Maksim Zykin's Student Github Account   body {background-color:#ffffff;backgroun
 
 My lil' resume:
 
-object data="Resume_Maksim_Zykin_2022 (2)" type="application/pdf" width="100%"> 
+<object data="Resume_Maksim_Zykin_2022 (2)" type="application/pdf" width="100%"> 
 </object>
